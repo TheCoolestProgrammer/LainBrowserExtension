@@ -1,0 +1,9 @@
+{
+  "name": "Lane is our god",
+  "version": "0.0.1",
+  "manifest_version": 2,
+  "browser_action": {
+    "default_icon": "images/lain.jpg",
+    "default_popup": "popup.html"
+  }
+}
